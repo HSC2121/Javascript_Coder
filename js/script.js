@@ -1,12 +1,12 @@
 let carlos;
-let carlos = true
+carlos = true
 
 
 let peter;
-let peter = 555
+peter = 555
 
 
 let orlos;
-let orlos  = "wenasnoches";
+orlos  = "wenasnoches";
 
 
